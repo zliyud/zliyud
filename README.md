@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zliyud
 - 👀 I’m interested in bus driving
-- 🌱 I’m currently learning sth...cool
-- 💞️ I’m looking to collaborate on sth...
-- 📫 QQ：1419619420
+- 🌱 I’m currently learning nothing
+- 📫 E-mail：zliyud@163.com
 
 <!---
 zliyud/zliyud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
